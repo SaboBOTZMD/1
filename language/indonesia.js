@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu 2022 • WPSBOT :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -783,14 +783,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
 ╰❒ And All Support
     `
 }
@@ -815,7 +807,7 @@ Sanksi: *PERMANENT BLOCK*
 ➡️ Script ini masih private dan tidak pernah diperjual belikan ,bijaklah dalam mengetahui penipu.
 
 🗯️ Boleh saya menambah ke grup?
-➡️ Untuk sementara bot dalam status free to add.
+➡️ Boleh, Dengan Cara Menyewa Botnya
 
 🗯️ Prefixnya apa ya?
 ➡️ Bot ini menggunakan multi prefix. Berarti anda bisa menggunakan prefix #, . , Dan prefix wajar lainnya.
@@ -828,7 +820,7 @@ Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
 ⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
-Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
+Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan 2022 • WPSBOT
 😖🙏
 `
 }
@@ -847,21 +839,21 @@ Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
-
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+-
 `
 }
 exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+*Hai Kak Mau Donasi?*
+*Berapapun Donasi Kalian Akan Sangat Membantu*
 
-Berapapun donasi kalian akan sangat berarti 👍
+*Dana   : 0853-8077-9466*
+*Gopay : 0853-8077-9466*
+*Qris All Payment : Scan Kode Qris Diatas*
 
-Thanks!
+*Terima Kasih Buat Yang Sudah Berdonasi*
 
 Contact person Owner:
 wa.me/${ownernomer}
@@ -1457,14 +1449,6 @@ exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 ├ My God
 ├ My Parents
-├ Fatih A.
-├ Ferdi
-├ DikaArdnt
-├ Mhankbarbar
-├ Nurutomo
-├ Rashid
-├ ZeeoneOfc
-├ Penyedia Module
 ╰❒ And All Support
 `
 }
